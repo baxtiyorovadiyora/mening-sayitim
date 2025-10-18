@@ -1,4 +1,4 @@
-/* Umumiy sozlamalar */
+
 * {
   margin: 0;
   padding: 0;
@@ -11,7 +11,7 @@ body {
   color: #fff;
 }
 
-/* Header */
+
 header {
   display: flex;
   justify-content: space-between;
@@ -37,7 +37,7 @@ nav a:hover {
   color: #ff4d4d;
 }
 
-/* Hero bo‘lim */
+
 .hero {
   display: flex;
   justify-content: space-between;
@@ -73,7 +73,7 @@ nav a:hover {
   margin-bottom: 30px;
 }
 
-/* Tugmalar */
+
 .buttons {
   display: flex;
   gap: 15px;
@@ -103,7 +103,7 @@ nav a:hover {
   color: #fff;
 }
 
-/* O‘ng tomondagi rasm */
+
 .hero-image {
   width: 40%;
   height: 420px;
@@ -114,7 +114,7 @@ nav a:hover {
   box-shadow: 0 8px 20px rgba(0,0,0,0.5);
 }
 
-/* Moslashuvchan dizayn */
+
 @media (max-width: 900px) {
   .hero {
     flex-direction: column;
